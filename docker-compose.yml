@@ -1,3 +1,11 @@
+name: tp-note-big-data
+
+volumes:
+  neo4j_data:
+  mongologs_data:
+  mongoecommerce_data:
+  cassandra_data:
+
 services:
   spark-worker:
     image: apache/spark:3.5.0
@@ -8,7 +16,6 @@ services:
       - SPARK_WORKER_CORES=2
       - SPARK_WORKER_MEMORY=2g
       - SPARK_WORKER_WEBUI_PORT=8081
-      - HADOOP_CONF_DIR=/opt/hadoop/conf
       - PYSPARK_PYTHON=python3
       - PYSPARK_DRIVER_PYTHON=python3
     ports:
@@ -18,9 +25,6 @@ services:
     volumes:
       - ./spark-apps:/opt/spark-apps
       - ./spark-data:/opt/spark-data
-      - ./hadoop-conf:/opt/hadoop/conf:ro
-    networks:
-      - hadoop_network
     restart: unless-stopped
 
   spark-master:
@@ -32,7 +36,6 @@ services:
       - SPARK_MASTER_HOST=spark-master
       - SPARK_MASTER_PORT=7077
       - SPARK_MASTER_WEBUI_PORT=8080
-      - HADOOP_CONF_DIR=/opt/hadoop/conf
       - PYSPARK_PYTHON=python3
       - PYSPARK_DRIVER_PYTHON=python3
     ports:
@@ -41,9 +44,6 @@ services:
     volumes:
       - ./spark-apps:/opt/spark-apps
       - ./spark-data:/opt/spark-data
-      - ./hadoop-conf:/opt/hadoop/conf:ro
-    networks:
-      - hadoop_network
     restart: unless-stopped
 
   jupyter:
@@ -55,33 +55,40 @@ services:
     environment:
       - JUPYTER_ENABLE_LAB=yes
       - SPARK_MASTER_URL=spark://spark-master:7077
-      - HADOOP_CONF_DIR=/opt/hadoop/conf
       - PYSPARK_SUBMIT_ARGS=--master spark://spark-master:7077 pyspark-shell
       - PYSPARK_PYTHON=python3
       - PYSPARK_DRIVER_PYTHON=python3
     volumes:
-      - ./notebooks:/home/jovyan/work
-      - ./hadoop-conf:/opt/hadoop/conf:ro
+      - ./notebooks:/home/jovyan/work/notebooks
+      - ./data:/home/jovyan/work/data
+      - ./spark/jars:/home/jovyan/work/spark/jars
+      
     depends_on:
       - spark-master
       - spark-worker
-      - namenode
-      - datanode
-    networks:
-      - hadoop_network
     restart: unless-stopped
 
-  mongodb:
-    image: mongo:${MONGO_VERSION}
-    container_name: mongodb
-    command: ["mongod", "--bind_ip_all"]
+  mongo-logs:
+    image: mongo:7
+    container_name: mongo_logs
     ports:
-      - "${MONGO_PORT}:27017"
+      - "27017:27017"
     volumes:
-      - mongodata:/data/db
-      - ./mongodb/init:/docker-entrypoint-initdb.d:ro
-    networks:
-      - tpnet
+      - mongologs_data:/data/db
+      - ./data:/datasets:ro
+    restart: unless-stopped
+
+  mongo-ecommerce:
+    image: mongo:7
+    container_name: mongo_ecommerce
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongoecommerce_data:/data/db
+      - ./data:/datasets:ro
+    restart: unless-stopped
+
+    
 
     healthcheck:
       test: ["CMD-SHELL", "mongosh --quiet --eval \"db.adminCommand('ping').ok\" | grep 1 >/dev/null || exit 1"]
