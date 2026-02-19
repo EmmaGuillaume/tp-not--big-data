@@ -55,6 +55,7 @@ services:
     environment:
       - JUPYTER_ENABLE_LAB=yes
       - SPARK_MASTER_URL=spark://spark-master:7077
+      - PYSPARK_SUBMIT_ARGS=--packages org.mongodb.spark:mongo-spark-connector_2.12:10.2.0 pyspark-shell
       - PYSPARK_SUBMIT_ARGS=--master spark://spark-master:7077 pyspark-shell
       - PYSPARK_PYTHON=python3
       - PYSPARK_DRIVER_PYTHON=python3
