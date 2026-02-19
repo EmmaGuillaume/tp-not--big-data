@@ -1,0 +1,602 @@
+[
+  {
+    "client_id": "C_0012",
+    "prenom": "Maryse",
+    "nom": "Muller",
+    "email": "peltiermichel@example.com",
+    "ip_address": "23.201.187.4",
+    "ville": "Saint Eugènenec",
+    "date_inscription": "2023-12-18",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0068",
+    "prenom": "Marc",
+    "nom": "Wagner",
+    "email": "lucas48@example.com",
+    "ip_address": "27.114.54.144",
+    "ville": "Roux",
+    "date_inscription": "2023-05-29",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0070",
+    "prenom": "Françoise",
+    "nom": "Munoz",
+    "email": "aguilbert@example.org",
+    "ip_address": "133.134.197.244",
+    "ville": "Saint ÉmilieVille",
+    "date_inscription": "2025-08-18",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0021",
+    "prenom": "Anastasie",
+    "nom": "Weiss",
+    "email": "qmeunier@example.org",
+    "ip_address": "61.220.147.201",
+    "ville": "Vallet",
+    "date_inscription": "2024-10-23",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0024",
+    "prenom": "Éric",
+    "nom": "Faivre",
+    "email": "massonhonore@example.net",
+    "ip_address": "218.169.17.244",
+    "ville": "Bazin",
+    "date_inscription": "2024-05-24",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0049",
+    "prenom": "Odette",
+    "nom": "Gomez",
+    "email": "anoukvallee@example.com",
+    "ip_address": "43.143.90.200",
+    "ville": "Maréchal",
+    "date_inscription": "2025-11-01",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0007",
+    "prenom": "Théo",
+    "nom": "Morel",
+    "email": "théo.morel@yahoo.fr",
+    "ip_address": "185.220.101.45",
+    "ville": "Sainte Patrick",
+    "date_inscription": "2024-07-28",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0096",
+    "prenom": "Denise",
+    "nom": "Dupré",
+    "email": "eric34@example.org",
+    "ip_address": "10.181.90.117",
+    "ville": "Caron",
+    "date_inscription": "2023-03-15",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0010",
+    "prenom": "Susan",
+    "nom": "Bertrand",
+    "email": "hregnier@example.com",
+    "ip_address": "47.114.178.84",
+    "ville": "Sainte Véroniqueboeuf",
+    "date_inscription": "2024-11-10",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0066",
+    "prenom": "Maryse",
+    "nom": "Hernandez",
+    "email": "martineautherese@example.net",
+    "ip_address": "100.85.87.104",
+    "ville": "Dupré",
+    "date_inscription": "2023-06-10",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0023",
+    "prenom": "Jade",
+    "nom": "Fontaine",
+    "email": "jade.fontaine@yahoo.fr",
+    "ip_address": "91.108.4.18",
+    "ville": "Fernandeznec",
+    "date_inscription": "2024-03-11",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0058",
+    "prenom": "Raymond",
+    "nom": "Martins",
+    "email": "olivier46@example.org",
+    "ip_address": "140.52.174.104",
+    "ville": "Albert",
+    "date_inscription": "2024-01-29",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0004",
+    "prenom": "Jacqueline",
+    "nom": "Lopes",
+    "email": "thierrysusan@example.org",
+    "ip_address": "221.7.186.196",
+    "ville": "Leblanc-la-Forêt",
+    "date_inscription": "2023-08-06",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0041",
+    "prenom": "Lucas",
+    "nom": "Blanchard",
+    "email": "lucas.blanchard@hotmail.fr",
+    "ip_address": "194.165.16.78",
+    "ville": "Rey",
+    "date_inscription": "2025-02-19",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0042",
+    "prenom": "Alphonse",
+    "nom": "Pruvost",
+    "email": "jacquelinevasseur@example.org",
+    "ip_address": "184.78.66.82",
+    "ville": "Saint MichelBourg",
+    "date_inscription": "2025-11-04",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0009",
+    "prenom": "Paulette",
+    "nom": "Marques",
+    "email": "morinalex@example.org",
+    "ip_address": "97.73.43.169",
+    "ville": "Barre",
+    "date_inscription": "2024-12-09",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0015",
+    "prenom": "Madeleine",
+    "nom": "Guérin",
+    "email": "elisabethchauveau@example.org",
+    "ip_address": "104.76.37.134",
+    "ville": "Pinto",
+    "date_inscription": "2024-04-07",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0082",
+    "prenom": "Raymond",
+    "nom": "Colin",
+    "email": "auguste19@example.com",
+    "ip_address": "23.166.150.117",
+    "ville": "Chauveau",
+    "date_inscription": "2025-06-27",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0018",
+    "prenom": "Andrée",
+    "nom": "Royer",
+    "email": "lecomtehelene@example.net",
+    "ip_address": "249.233.20.143",
+    "ville": "Lecomte",
+    "date_inscription": "2025-02-03",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0022",
+    "prenom": "Rémy",
+    "nom": "Letellier",
+    "email": "zguillon@example.com",
+    "ip_address": "244.81.64.229",
+    "ville": "Dos Santos",
+    "date_inscription": "2024-08-27",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0030",
+    "prenom": "Franck",
+    "nom": "Toussaint",
+    "email": "zoe89@example.org",
+    "ip_address": "116.234.18.178",
+    "ville": "Besson",
+    "date_inscription": "2025-05-31",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0074",
+    "prenom": "Stéphanie",
+    "nom": "Fournier",
+    "email": "marc31@example.com",
+    "ip_address": "212.133.114.2",
+    "ville": "Cordier-les-Bains",
+    "date_inscription": "2025-11-26",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0069",
+    "prenom": "Audrey",
+    "nom": "Baron",
+    "email": "bernardxavier@example.org",
+    "ip_address": "95.187.13.244",
+    "ville": "Renard",
+    "date_inscription": "2025-05-08",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0075",
+    "prenom": "Noël",
+    "nom": "Goncalves",
+    "email": "antoinettelaurent@example.org",
+    "ip_address": "79.61.38.238",
+    "ville": "Bouchet",
+    "date_inscription": "2025-07-14",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0067",
+    "prenom": "Grégoire",
+    "nom": "Aubry",
+    "email": "gautiernoemi@example.net",
+    "ip_address": "223.113.175.136",
+    "ville": "Maillard",
+    "date_inscription": "2023-12-22",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0077",
+    "prenom": "Nathalie",
+    "nom": "Menard",
+    "email": "hugues16@example.org",
+    "ip_address": "234.246.247.43",
+    "ville": "Louis-sur-Mer",
+    "date_inscription": "2025-07-30",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0098",
+    "prenom": "Clémence",
+    "nom": "Alexandre",
+    "email": "williambegue@example.net",
+    "ip_address": "155.67.244.2",
+    "ville": "Saint Renée",
+    "date_inscription": "2024-05-27",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0048",
+    "prenom": "Célina",
+    "nom": "Menard",
+    "email": "pichonsusan@example.net",
+    "ip_address": "176.233.19.8",
+    "ville": "Saint ManonVille",
+    "date_inscription": "2026-01-13",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0027",
+    "prenom": "Alain",
+    "nom": "Bazin",
+    "email": "normandelise@example.com",
+    "ip_address": "166.66.152.226",
+    "ville": "Marie",
+    "date_inscription": "2024-01-04",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0093",
+    "prenom": "Capucine",
+    "nom": "Parent",
+    "email": "daniellereynaud@example.net",
+    "ip_address": "179.55.145.244",
+    "ville": "Delmas",
+    "date_inscription": "2023-05-20",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0084",
+    "prenom": "Bernadette",
+    "nom": "Seguin",
+    "email": "collinhortense@example.org",
+    "ip_address": "84.167.103.28",
+    "ville": "Bertrand",
+    "date_inscription": "2025-04-03",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0051",
+    "prenom": "Jacques",
+    "nom": "Gillet",
+    "email": "perrierremy@example.com",
+    "ip_address": "219.191.137.65",
+    "ville": "Briand",
+    "date_inscription": "2025-03-20",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0079",
+    "prenom": "Céline",
+    "nom": "Marty",
+    "email": "valentine33@example.org",
+    "ip_address": "51.170.120.69",
+    "ville": "Alexandre",
+    "date_inscription": "2024-02-11",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0087",
+    "prenom": "Adrien",
+    "nom": "Dijoux",
+    "email": "aimeeperret@example.org",
+    "ip_address": "187.88.187.159",
+    "ville": "Ferrand",
+    "date_inscription": "2024-01-26",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0031",
+    "prenom": "Élodie",
+    "nom": "Merle",
+    "email": "josephtristan@example.com",
+    "ip_address": "24.182.91.61",
+    "ville": "Saint Agnès",
+    "date_inscription": "2025-10-06",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0029",
+    "prenom": "Hugues",
+    "nom": "De Sousa",
+    "email": "macemichelle@example.com",
+    "ip_address": "217.33.43.73",
+    "ville": "Ledoux-les-Bains",
+    "date_inscription": "2024-08-25",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0061",
+    "prenom": "Gilles",
+    "nom": "Lévêque",
+    "email": "moulinalexandrie@example.com",
+    "ip_address": "185.247.91.234",
+    "ville": "Navarro",
+    "date_inscription": "2025-08-17",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0056",
+    "prenom": "Danielle",
+    "nom": "Faure",
+    "email": "danielvalentin@example.org",
+    "ip_address": "48.126.68.175",
+    "ville": "Antoine",
+    "date_inscription": "2023-06-28",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0046",
+    "prenom": "Yves",
+    "nom": "Nicolas",
+    "email": "leonaubert@example.net",
+    "ip_address": "194.199.195.187",
+    "ville": "Jolynec",
+    "date_inscription": "2023-09-05",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0072",
+    "prenom": "Isabelle",
+    "nom": "Courtois",
+    "email": "aurorerodriguez@example.org",
+    "ip_address": "5.164.249.198",
+    "ville": "Marchal",
+    "date_inscription": "2025-10-28",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0092",
+    "prenom": "Victoire",
+    "nom": "Martin",
+    "email": "sebastien36@example.net",
+    "ip_address": "12.8.136.244",
+    "ville": "Bègue-sur-Lebrun",
+    "date_inscription": "2024-07-10",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0059",
+    "prenom": "Odette",
+    "nom": "Legrand",
+    "email": "albertlaurence@example.net",
+    "ip_address": "67.40.167.48",
+    "ville": "Saint Élise-sur-Mer",
+    "date_inscription": "2024-08-23",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0034",
+    "prenom": "Véronique",
+    "nom": "Le Gall",
+    "email": "bertrandguillot@example.net",
+    "ip_address": "115.199.244.51",
+    "ville": "Saint Nathdan",
+    "date_inscription": "2025-07-29",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0055",
+    "prenom": "Nina",
+    "nom": "Giraud",
+    "email": "nina.giraud@voila.fr",
+    "ip_address": "45.155.205.11",
+    "ville": "Philippenec",
+    "date_inscription": "2024-07-26",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0044",
+    "prenom": "Henriette",
+    "nom": "Verdier",
+    "email": "yberger@example.com",
+    "ip_address": "103.95.121.95",
+    "ville": "AubertBourg",
+    "date_inscription": "2023-06-03",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0045",
+    "prenom": "Aurore",
+    "nom": "Monnier",
+    "email": "dbouchet@example.net",
+    "ip_address": "179.137.15.170",
+    "ville": "Saint Charles",
+    "date_inscription": "2024-05-02",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0088",
+    "prenom": "Claude",
+    "nom": "Denis",
+    "email": "corinne46@example.com",
+    "ip_address": "210.214.243.187",
+    "ville": "Grenier-la-Forêt",
+    "date_inscription": "2024-10-16",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0035",
+    "prenom": "Patricia",
+    "nom": "Rossi",
+    "email": "gilbertdelmas@example.com",
+    "ip_address": "7.231.140.98",
+    "ville": "Gaillard-la-Forêt",
+    "date_inscription": "2024-09-16",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0097",
+    "prenom": "Patrick",
+    "nom": "Ollivier",
+    "email": "pineauarnaude@example.net",
+    "ip_address": "158.62.242.144",
+    "ville": "Leclercq-sur-Wagner",
+    "date_inscription": "2025-03-20",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0016",
+    "prenom": "Lucie",
+    "nom": "Lagarde",
+    "email": "mariannegermain@example.org",
+    "ip_address": "19.71.167.146",
+    "ville": "David",
+    "date_inscription": "2025-07-17",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0043",
+    "prenom": "Vincent",
+    "nom": "Guérin",
+    "email": "rogerlaroche@example.com",
+    "ip_address": "127.19.162.175",
+    "ville": "Gimenez",
+    "date_inscription": "2023-07-11",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0036",
+    "prenom": "Julie",
+    "nom": "Briand",
+    "email": "elodiefaivre@example.net",
+    "ip_address": "247.32.236.127",
+    "ville": "Delannoy",
+    "date_inscription": "2024-01-24",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0081",
+    "prenom": "Daniel",
+    "nom": "Leleu",
+    "email": "adele86@example.net",
+    "ip_address": "23.186.107.101",
+    "ville": "RémyVille",
+    "date_inscription": "2023-06-23",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0057",
+    "prenom": "Hélène",
+    "nom": "Hoarau",
+    "email": "legendreedouard@example.com",
+    "ip_address": "203.200.113.222",
+    "ville": "Moreno-sur-Barbe",
+    "date_inscription": "2024-01-29",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0053",
+    "prenom": "Élodie",
+    "nom": "Bonnet",
+    "email": "bertrand09@example.com",
+    "ip_address": "51.71.180.212",
+    "ville": "Laporte-les-Bains",
+    "date_inscription": "2023-04-20",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0052",
+    "prenom": "Nath",
+    "nom": "Berthelot",
+    "email": "mmeyer@example.com",
+    "ip_address": "240.201.235.152",
+    "ville": "Boyer",
+    "date_inscription": "2024-11-12",
+    "statut": "inactif"
+  },
+  {
+    "client_id": "C_0091",
+    "prenom": "Léon",
+    "nom": "De Oliveira",
+    "email": "vlabbe@example.org",
+    "ip_address": "61.218.229.218",
+    "ville": "Colas-sur-Hernandez",
+    "date_inscription": "2024-05-06",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0026",
+    "prenom": "Christophe",
+    "nom": "Collin",
+    "email": "dgodard@example.net",
+    "ip_address": "170.221.128.130",
+    "ville": "Lenoir",
+    "date_inscription": "2025-09-16",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0013",
+    "prenom": "Luce",
+    "nom": "Marchal",
+    "email": "alexandriemonnier@example.org",
+    "ip_address": "139.229.53.176",
+    "ville": "Boutin",
+    "date_inscription": "2025-12-08",
+    "statut": "actif"
+  },
+  {
+    "client_id": "C_0040",
+    "prenom": "Marguerite",
+    "nom": "Delahaye",
+    "email": "brigitte87@example.org",
+    "ip_address": "99.76.223.130",
+    "ville": "Jean",
+    "date_inscription": "2023-04-28",
+    "statut": "inactif"
+  }
+]

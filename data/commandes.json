@@ -1,0 +1,5611 @@
+[
+  {
+    "commande_id": "CMD_00107",
+    "client_id": "C_0093",
+    "date_commande": "2026-02-17T23:03:40.759704",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 3,
+        "prix_unitaire": 179.0,
+        "sous_total": 537.0
+      }
+    ],
+    "total": 3136.98
+  },
+  {
+    "commande_id": "CMD_00051",
+    "client_id": "C_0024",
+    "date_commande": "2026-02-17T22:56:32.899507",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      }
+    ],
+    "total": 2599.98
+  },
+  {
+    "commande_id": "CMD_00067",
+    "client_id": "C_0015",
+    "date_commande": "2026-02-17T22:58:37.781361",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      }
+    ],
+    "total": 239.6
+  },
+  {
+    "commande_id": "CMD_00105",
+    "client_id": "C_0027",
+    "date_commande": "2026-02-17T22:53:14.212275",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      }
+    ],
+    "total": 966.7
+  },
+  {
+    "commande_id": "CMD_00012",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:07:37.028518",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      }
+    ],
+    "total": 2599.98
+  },
+  {
+    "commande_id": "CMD_00198",
+    "client_id": "C_0052",
+    "date_commande": "2026-02-17T23:03:15.551801",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 2,
+        "prix_unitaire": 34.9,
+        "sous_total": 69.8
+      }
+    ],
+    "total": 69.8
+  },
+  {
+    "commande_id": "CMD_00199",
+    "client_id": "C_0052",
+    "date_commande": "2026-02-17T23:07:47.735585",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 2,
+        "prix_unitaire": 49.9,
+        "sous_total": 99.8
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      }
+    ],
+    "total": 1276.2
+  },
+  {
+    "commande_id": "CMD_00190",
+    "client_id": "C_0081",
+    "date_commande": "2026-02-17T22:52:23.308356",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      }
+    ],
+    "total": 657.0
+  },
+  {
+    "commande_id": "CMD_00195",
+    "client_id": "C_0057",
+    "date_commande": "2026-02-17T22:53:32.961830",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 2036.4
+  },
+  {
+    "commande_id": "CMD_00176",
+    "client_id": "C_0097",
+    "date_commande": "2026-02-17T23:04:29.367498",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 4,
+        "prix_unitaire": 49.9,
+        "sous_total": 199.6
+      }
+    ],
+    "total": 3248.58
+  },
+  {
+    "commande_id": "CMD_00068",
+    "client_id": "C_0015",
+    "date_commande": "2026-02-17T22:52:30.838021",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      }
+    ],
+    "total": 3989.87
+  },
+  {
+    "commande_id": "CMD_00208",
+    "client_id": "C_0040",
+    "date_commande": "2026-02-17T22:55:09.256233",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      }
+    ],
+    "total": 229.5
+  },
+  {
+    "commande_id": "CMD_00031",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T22:59:28.634877",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      }
+    ],
+    "total": 1046.7
+  },
+  {
+    "commande_id": "CMD_00194",
+    "client_id": "C_0057",
+    "date_commande": "2026-02-17T23:03:56.164778",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      }
+    ],
+    "total": 219.0
+  },
+  {
+    "commande_id": "CMD_00033",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T23:02:41.909600",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 3,
+        "prix_unitaire": 44.9,
+        "sous_total": 134.7
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      }
+    ],
+    "total": 474.0
+  },
+  {
+    "commande_id": "CMD_00192",
+    "client_id": "C_0057",
+    "date_commande": "2026-02-17T22:52:22.119121",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      }
+    ],
+    "total": 464.4
+  },
+  {
+    "commande_id": "CMD_00142",
+    "client_id": "C_0056",
+    "date_commande": "2026-02-17T23:07:35.711630",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 1,
+        "prix_unitaire": 179.0,
+        "sous_total": 179.0
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      }
+    ],
+    "total": 253.8
+  },
+  {
+    "commande_id": "CMD_00160",
+    "client_id": "C_0044",
+    "date_commande": "2026-02-17T22:53:29.387046",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      }
+    ],
+    "total": 519.3
+  },
+  {
+    "commande_id": "CMD_00147",
+    "client_id": "C_0046",
+    "date_commande": "2026-02-17T22:58:03.420452",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 4,
+        "prix_unitaire": 349.0,
+        "sous_total": 1396.0
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 4,
+        "prix_unitaire": 24.9,
+        "sous_total": 99.6
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      }
+    ],
+    "total": 1715.2
+  },
+  {
+    "commande_id": "CMD_00096",
+    "client_id": "C_0077",
+    "date_commande": "2026-02-17T22:53:48.309537",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 3,
+        "prix_unitaire": 49.9,
+        "sous_total": 149.7
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      }
+    ],
+    "total": 1449.69
+  },
+  {
+    "commande_id": "CMD_00103",
+    "client_id": "C_0027",
+    "date_commande": "2026-02-17T23:02:48.422169",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 2,
+        "prix_unitaire": 59.9,
+        "sous_total": 119.8
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      }
+    ],
+    "total": 1825.4
+  },
+  {
+    "commande_id": "CMD_00202",
+    "client_id": "C_0026",
+    "date_commande": "2026-02-17T22:52:01.568197",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      }
+    ],
+    "total": 389.7
+  },
+  {
+    "commande_id": "CMD_00032",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T23:00:03.190889",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      }
+    ],
+    "total": 1379.79
+  },
+  {
+    "commande_id": "CMD_00189",
+    "client_id": "C_0081",
+    "date_commande": "2026-02-17T22:54:44.515970",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      }
+    ],
+    "total": 269.7
+  },
+  {
+    "commande_id": "CMD_00144",
+    "client_id": "C_0046",
+    "date_commande": "2026-02-17T23:04:45.855156",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 4,
+        "prix_unitaire": 219.0,
+        "sous_total": 876.0
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      }
+    ],
+    "total": 3875.58
+  },
+  {
+    "commande_id": "CMD_00083",
+    "client_id": "C_0074",
+    "date_commande": "2026-02-17T23:03:45.170609",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 4,
+        "prix_unitaire": 149.0,
+        "sous_total": 596.0
+      }
+    ],
+    "total": 1188.7
+  },
+  {
+    "commande_id": "CMD_00182",
+    "client_id": "C_0043",
+    "date_commande": "2026-02-17T22:58:44.121328",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 3,
+        "prix_unitaire": 44.9,
+        "sous_total": 134.7
+      }
+    ],
+    "total": 184.5
+  },
+  {
+    "commande_id": "CMD_00109",
+    "client_id": "C_0093",
+    "date_commande": "2026-02-17T23:04:57.845268",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 1,
+        "prix_unitaire": 179.0,
+        "sous_total": 179.0
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 4,
+        "prix_unitaire": 219.0,
+        "sous_total": 876.0
+      }
+    ],
+    "total": 1055.0
+  },
+  {
+    "commande_id": "CMD_00063",
+    "client_id": "C_0042",
+    "date_commande": "2026-02-17T22:56:16.019907",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 2,
+        "prix_unitaire": 149.0,
+        "sous_total": 298.0
+      }
+    ],
+    "total": 397.9
+  },
+  {
+    "commande_id": "CMD_00165",
+    "client_id": "C_0045",
+    "date_commande": "2026-02-17T23:02:50.278450",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 3,
+        "prix_unitaire": 34.9,
+        "sous_total": 104.7
+      }
+    ],
+    "total": 1934.19
+  },
+  {
+    "commande_id": "CMD_00029",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T22:57:08.788015",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      }
+    ],
+    "total": 1286.7
+  },
+  {
+    "commande_id": "CMD_00125",
+    "client_id": "C_0087",
+    "date_commande": "2026-02-17T22:52:23.739470",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      }
+    ],
+    "total": 1008.4
+  },
+  {
+    "commande_id": "CMD_00148",
+    "client_id": "C_0046",
+    "date_commande": "2026-02-17T23:03:22.508312",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 1,
+        "prix_unitaire": 79.9,
+        "sous_total": 79.9
+      }
+    ],
+    "total": 737.6
+  },
+  {
+    "commande_id": "CMD_00173",
+    "client_id": "C_0035",
+    "date_commande": "2026-02-17T23:02:38.858087",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 3,
+        "prix_unitaire": 19.9,
+        "sous_total": 59.7
+      }
+    ],
+    "total": 274.4
+  },
+  {
+    "commande_id": "CMD_00095",
+    "client_id": "C_0077",
+    "date_commande": "2026-02-17T23:07:18.580671",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 4,
+        "prix_unitaire": 219.0,
+        "sous_total": 876.0
+      }
+    ],
+    "total": 1145.7
+  },
+  {
+    "commande_id": "CMD_00117",
+    "client_id": "C_0051",
+    "date_commande": "2026-02-17T23:03:05.215881",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 1,
+        "prix_unitaire": 44.9,
+        "sous_total": 44.9
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      }
+    ],
+    "total": 1441.7
+  },
+  {
+    "commande_id": "CMD_00089",
+    "client_id": "C_0069",
+    "date_commande": "2026-02-17T23:08:12.900455",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 4,
+        "prix_unitaire": 179.0,
+        "sous_total": 716.0
+      }
+    ],
+    "total": 716.0
+  },
+  {
+    "commande_id": "CMD_00056",
+    "client_id": "C_0096",
+    "date_commande": "2026-02-17T23:03:40.316922",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 2,
+        "prix_unitaire": 59.9,
+        "sous_total": 119.8
+      }
+    ],
+    "total": 119.8
+  },
+  {
+    "commande_id": "CMD_00149",
+    "client_id": "C_0072",
+    "date_commande": "2026-02-17T22:55:02.867181",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      }
+    ],
+    "total": 469.4
+  },
+  {
+    "commande_id": "CMD_00058",
+    "client_id": "C_0010",
+    "date_commande": "2026-02-17T23:01:04.512796",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      }
+    ],
+    "total": 49.8
+  },
+  {
+    "commande_id": "CMD_00020",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:05:08.431918",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 179.8
+  },
+  {
+    "commande_id": "CMD_00163",
+    "client_id": "C_0045",
+    "date_commande": "2026-02-17T22:56:20.565951",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      }
+    ],
+    "total": 514.3
+  },
+  {
+    "commande_id": "CMD_00040",
+    "client_id": "C_0012",
+    "date_commande": "2026-02-17T22:59:59.020032",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 2,
+        "prix_unitaire": 149.0,
+        "sous_total": 298.0
+      }
+    ],
+    "total": 627.7
+  },
+  {
+    "commande_id": "CMD_00124",
+    "client_id": "C_0079",
+    "date_commande": "2026-02-17T23:01:01.444544",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 3,
+        "prix_unitaire": 34.9,
+        "sous_total": 104.7
+      }
+    ],
+    "total": 464.3
+  },
+  {
+    "commande_id": "CMD_00132",
+    "client_id": "C_0031",
+    "date_commande": "2026-02-17T22:56:21.529669",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 4,
+        "prix_unitaire": 39.9,
+        "sous_total": 159.6
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 1,
+        "prix_unitaire": 24.9,
+        "sous_total": 24.9
+      }
+    ],
+    "total": 723.7
+  },
+  {
+    "commande_id": "CMD_00172",
+    "client_id": "C_0088",
+    "date_commande": "2026-02-17T23:03:51.817826",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      }
+    ],
+    "total": 39.9
+  },
+  {
+    "commande_id": "CMD_00061",
+    "client_id": "C_0058",
+    "date_commande": "2026-02-17T22:58:03.702854",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 3,
+        "prix_unitaire": 34.9,
+        "sous_total": 104.7
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 4,
+        "prix_unitaire": 149.0,
+        "sous_total": 596.0
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      }
+    ],
+    "total": 1357.7
+  },
+  {
+    "commande_id": "CMD_00210",
+    "client_id": "C_0040",
+    "date_commande": "2026-02-17T23:00:10.627684",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      }
+    ],
+    "total": 69.9
+  },
+  {
+    "commande_id": "CMD_00049",
+    "client_id": "C_0024",
+    "date_commande": "2026-02-17T22:57:03.811511",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      }
+    ],
+    "total": 3646.98
+  },
+  {
+    "commande_id": "CMD_00123",
+    "client_id": "C_0079",
+    "date_commande": "2026-02-17T23:05:31.316698",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 3,
+        "prix_unitaire": 34.9,
+        "sous_total": 104.7
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 4,
+        "prix_unitaire": 44.9,
+        "sous_total": 179.6
+      }
+    ],
+    "total": 284.3
+  },
+  {
+    "commande_id": "CMD_00111",
+    "client_id": "C_0084",
+    "date_commande": "2026-02-17T22:52:09.746650",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 1546.8
+  },
+  {
+    "commande_id": "CMD_00179",
+    "client_id": "C_0016",
+    "date_commande": "2026-02-17T23:02:40.130128",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 89.9
+  },
+  {
+    "commande_id": "CMD_00042",
+    "client_id": "C_0068",
+    "date_commande": "2026-02-17T22:53:56.381141",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 2,
+        "prix_unitaire": 449.0,
+        "sous_total": 898.0
+      }
+    ],
+    "total": 1157.8
+  },
+  {
+    "commande_id": "CMD_00079",
+    "client_id": "C_0022",
+    "date_commande": "2026-02-17T22:54:01.593107",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 1984.7
+  },
+  {
+    "commande_id": "CMD_00074",
+    "client_id": "C_0018",
+    "date_commande": "2026-02-17T23:01:47.169620",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 2,
+        "prix_unitaire": 69.9,
+        "sous_total": 139.8
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 2,
+        "prix_unitaire": 449.0,
+        "sous_total": 898.0
+      }
+    ],
+    "total": 5037.67
+  },
+  {
+    "commande_id": "CMD_00121",
+    "client_id": "C_0079",
+    "date_commande": "2026-02-17T22:52:03.053410",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 4,
+        "prix_unitaire": 129.9,
+        "sous_total": 519.6
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      }
+    ],
+    "total": 2306.1
+  },
+  {
+    "commande_id": "CMD_00106",
+    "client_id": "C_0093",
+    "date_commande": "2026-02-17T23:01:08.827293",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      }
+    ],
+    "total": 399.4
+  },
+  {
+    "commande_id": "CMD_00185",
+    "client_id": "C_0043",
+    "date_commande": "2026-02-17T23:03:38.610272",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      }
+    ],
+    "total": 239.6
+  },
+  {
+    "commande_id": "CMD_00099",
+    "client_id": "C_0098",
+    "date_commande": "2026-02-17T22:52:29.318653",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 4,
+        "prix_unitaire": 219.0,
+        "sous_total": 876.0
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      }
+    ],
+    "total": 910.9
+  },
+  {
+    "commande_id": "CMD_00069",
+    "client_id": "C_0015",
+    "date_commande": "2026-02-17T23:01:25.037518",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 4,
+        "prix_unitaire": 69.9,
+        "sous_total": 279.6
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 1,
+        "prix_unitaire": 179.0,
+        "sous_total": 179.0
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 2,
+        "prix_unitaire": 49.9,
+        "sous_total": 99.8
+      }
+    ],
+    "total": 918.0
+  },
+  {
+    "commande_id": "CMD_00188",
+    "client_id": "C_0081",
+    "date_commande": "2026-02-17T22:55:05.589741",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 3,
+        "prix_unitaire": 34.9,
+        "sous_total": 104.7
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      }
+    ],
+    "total": 1404.69
+  },
+  {
+    "commande_id": "CMD_00168",
+    "client_id": "C_0088",
+    "date_commande": "2026-02-17T23:07:16.907584",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 2,
+        "prix_unitaire": 69.9,
+        "sous_total": 139.8
+      }
+    ],
+    "total": 2934.48
+  },
+  {
+    "commande_id": "CMD_00197",
+    "client_id": "C_0052",
+    "date_commande": "2026-02-17T22:58:55.934474",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 89.9
+  },
+  {
+    "commande_id": "CMD_00207",
+    "client_id": "C_0040",
+    "date_commande": "2026-02-17T22:59:49.865896",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 2,
+        "prix_unitaire": 349.0,
+        "sous_total": 698.0
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 4,
+        "prix_unitaire": 19.9,
+        "sous_total": 79.6
+      }
+    ],
+    "total": 857.4
+  },
+  {
+    "commande_id": "CMD_00017",
+    "client_id": "C_0023",
+    "date_commande": "2026-02-17T23:06:11.009802",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 1646.7
+  },
+  {
+    "commande_id": "CMD_00128",
+    "client_id": "C_0087",
+    "date_commande": "2026-02-17T22:56:27.980067",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      }
+    ],
+    "total": 5938.46
+  },
+  {
+    "commande_id": "CMD_00072",
+    "client_id": "C_0082",
+    "date_commande": "2026-02-17T23:00:22.543342",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      }
+    ],
+    "total": 5199.96
+  },
+  {
+    "commande_id": "CMD_00159",
+    "client_id": "C_0044",
+    "date_commande": "2026-02-17T23:05:32.029063",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 3,
+        "prix_unitaire": 179.0,
+        "sous_total": 537.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 3,
+        "prix_unitaire": 24.9,
+        "sous_total": 74.7
+      }
+    ],
+    "total": 791.5
+  },
+  {
+    "commande_id": "CMD_00064",
+    "client_id": "C_0042",
+    "date_commande": "2026-02-17T23:02:26.473236",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 1,
+        "prix_unitaire": 24.9,
+        "sous_total": 24.9
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 1823.79
+  },
+  {
+    "commande_id": "CMD_00006",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:06:23.802170",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 2,
+        "prix_unitaire": 449.0,
+        "sous_total": 898.0
+      }
+    ],
+    "total": 1616.5
+  },
+  {
+    "commande_id": "CMD_00037",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T23:04:41.621782",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      }
+    ],
+    "total": 129.9
+  },
+  {
+    "commande_id": "CMD_00075",
+    "client_id": "C_0018",
+    "date_commande": "2026-02-17T22:52:39.555446",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 4,
+        "prix_unitaire": 129.9,
+        "sous_total": 519.6
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 2,
+        "prix_unitaire": 219.0,
+        "sous_total": 438.0
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      }
+    ],
+    "total": 1377.1
+  },
+  {
+    "commande_id": "CMD_00005",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T22:59:12.422761",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      }
+    ],
+    "total": 419.6
+  },
+  {
+    "commande_id": "CMD_00081",
+    "client_id": "C_0030",
+    "date_commande": "2026-02-17T23:03:55.128084",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      }
+    ],
+    "total": 1216.7
+  },
+  {
+    "commande_id": "CMD_00157",
+    "client_id": "C_0034",
+    "date_commande": "2026-02-17T22:57:02.308449",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      }
+    ],
+    "total": 499.5
+  },
+  {
+    "commande_id": "CMD_00034",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T22:57:52.629324",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      }
+    ],
+    "total": 728.5
+  },
+  {
+    "commande_id": "CMD_00209",
+    "client_id": "C_0040",
+    "date_commande": "2026-02-17T23:07:45.238526",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 2,
+        "prix_unitaire": 449.0,
+        "sous_total": 898.0
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 4,
+        "prix_unitaire": 24.9,
+        "sous_total": 99.6
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 3,
+        "prix_unitaire": 179.0,
+        "sous_total": 537.0
+      }
+    ],
+    "total": 1714.4
+  },
+  {
+    "commande_id": "CMD_00045",
+    "client_id": "C_0068",
+    "date_commande": "2026-02-17T23:00:43.805767",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 2,
+        "prix_unitaire": 69.9,
+        "sous_total": 139.8
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 4,
+        "prix_unitaire": 49.9,
+        "sous_total": 199.6
+      }
+    ],
+    "total": 818.7
+  },
+  {
+    "commande_id": "CMD_00152",
+    "client_id": "C_0059",
+    "date_commande": "2026-02-17T22:51:46.595930",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 4,
+        "prix_unitaire": 39.9,
+        "sous_total": 159.6
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 4,
+        "prix_unitaire": 149.0,
+        "sous_total": 596.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      }
+    ],
+    "total": 1115.2
+  },
+  {
+    "commande_id": "CMD_00177",
+    "client_id": "C_0097",
+    "date_commande": "2026-02-17T22:51:53.497619",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      }
+    ],
+    "total": 4289.67
+  },
+  {
+    "commande_id": "CMD_00044",
+    "client_id": "C_0068",
+    "date_commande": "2026-02-17T23:06:30.225557",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 2,
+        "prix_unitaire": 49.9,
+        "sous_total": 99.8
+      }
+    ],
+    "total": 998.3
+  },
+  {
+    "commande_id": "CMD_00015",
+    "client_id": "C_0023",
+    "date_commande": "2026-02-17T23:04:50.877252",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 2,
+        "prix_unitaire": 44.9,
+        "sous_total": 89.8
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      }
+    ],
+    "total": 509.2
+  },
+  {
+    "commande_id": "CMD_00200",
+    "client_id": "C_0052",
+    "date_commande": "2026-02-17T22:59:39.607819",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      }
+    ],
+    "total": 468.7
+  },
+  {
+    "commande_id": "CMD_00097",
+    "client_id": "C_0098",
+    "date_commande": "2026-02-17T22:50:35.010419",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 2,
+        "prix_unitaire": 149.0,
+        "sous_total": 298.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 1,
+        "prix_unitaire": 79.9,
+        "sous_total": 79.9
+      }
+    ],
+    "total": 737.5
+  },
+  {
+    "commande_id": "CMD_00116",
+    "client_id": "C_0051",
+    "date_commande": "2026-02-17T22:57:21.386797",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      }
+    ],
+    "total": 579.3
+  },
+  {
+    "commande_id": "CMD_00054",
+    "client_id": "C_0096",
+    "date_commande": "2026-02-17T23:07:22.704766",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 2,
+        "prix_unitaire": 34.9,
+        "sous_total": 69.8
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 1,
+        "prix_unitaire": 19.9,
+        "sous_total": 19.9
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      }
+    ],
+    "total": 479.4
+  },
+  {
+    "commande_id": "CMD_00153",
+    "client_id": "C_0059",
+    "date_commande": "2026-02-17T23:06:05.161679",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 4,
+        "prix_unitaire": 19.9,
+        "sous_total": 79.6
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      }
+    ],
+    "total": 239.4
+  },
+  {
+    "commande_id": "CMD_00002",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:07:42.735550",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 1,
+        "prix_unitaire": 79.9,
+        "sous_total": 79.9
+      }
+    ],
+    "total": 339.7
+  },
+  {
+    "commande_id": "CMD_00137",
+    "client_id": "C_0061",
+    "date_commande": "2026-02-17T23:01:39.431915",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      }
+    ],
+    "total": 5199.96
+  },
+  {
+    "commande_id": "CMD_00175",
+    "client_id": "C_0097",
+    "date_commande": "2026-02-17T22:59:03.087042",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 4,
+        "prix_unitaire": 69.9,
+        "sous_total": 279.6
+      }
+    ],
+    "total": 669.3
+  },
+  {
+    "commande_id": "CMD_00073",
+    "client_id": "C_0082",
+    "date_commande": "2026-02-17T22:50:42.270210",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 4,
+        "prix_unitaire": 39.9,
+        "sous_total": 159.6
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 4,
+        "prix_unitaire": 179.0,
+        "sous_total": 716.0
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      }
+    ],
+    "total": 1115.2
+  },
+  {
+    "commande_id": "CMD_00122",
+    "client_id": "C_0079",
+    "date_commande": "2026-02-17T23:04:07.279356",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      }
+    ],
+    "total": 119.7
+  },
+  {
+    "commande_id": "CMD_00131",
+    "client_id": "C_0031",
+    "date_commande": "2026-02-17T22:59:19.437653",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 2,
+        "prix_unitaire": 19.9,
+        "sous_total": 39.8
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 1,
+        "prix_unitaire": 179.0,
+        "sous_total": 179.0
+      }
+    ],
+    "total": 608.5
+  },
+  {
+    "commande_id": "CMD_00024",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:03:52.116235",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      }
+    ],
+    "total": 249.6
+  },
+  {
+    "commande_id": "CMD_00211",
+    "client_id": "C_0040",
+    "date_commande": "2026-02-17T23:02:46.210784",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 4,
+        "prix_unitaire": 49.9,
+        "sous_total": 199.6
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      }
+    ],
+    "total": 1506.4
+  },
+  {
+    "commande_id": "CMD_00143",
+    "client_id": "C_0056",
+    "date_commande": "2026-02-17T22:55:04.688988",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 2,
+        "prix_unitaire": 34.9,
+        "sous_total": 69.8
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      }
+    ],
+    "total": 936.4
+  },
+  {
+    "commande_id": "CMD_00158",
+    "client_id": "C_0034",
+    "date_commande": "2026-02-17T22:50:43.995998",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 4,
+        "prix_unitaire": 49.9,
+        "sous_total": 199.6
+      }
+    ],
+    "total": 1599.49
+  },
+  {
+    "commande_id": "CMD_00001",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T22:58:19.638411",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      }
+    ],
+    "total": 867.7
+  },
+  {
+    "commande_id": "CMD_00206",
+    "client_id": "C_0013",
+    "date_commande": "2026-02-17T22:50:28.280237",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 4,
+        "prix_unitaire": 24.9,
+        "sous_total": 99.6
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      }
+    ],
+    "total": 2536.49
+  },
+  {
+    "commande_id": "CMD_00156",
+    "client_id": "C_0034",
+    "date_commande": "2026-02-17T23:01:12.158241",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 3,
+        "prix_unitaire": 49.9,
+        "sous_total": 149.7
+      }
+    ],
+    "total": 409.5
+  },
+  {
+    "commande_id": "CMD_00191",
+    "client_id": "C_0081",
+    "date_commande": "2026-02-17T22:53:40.991037",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 4,
+        "prix_unitaire": 449.0,
+        "sous_total": 1796.0
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      }
+    ],
+    "total": 2602.0
+  },
+  {
+    "commande_id": "CMD_00161",
+    "client_id": "C_0044",
+    "date_commande": "2026-02-17T22:54:02.089438",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      }
+    ],
+    "total": 578.5
+  },
+  {
+    "commande_id": "CMD_00035",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T22:58:59.508265",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 309.7
+  },
+  {
+    "commande_id": "CMD_00150",
+    "client_id": "C_0072",
+    "date_commande": "2026-02-17T23:05:32.850213",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 2,
+        "prix_unitaire": 19.9,
+        "sous_total": 39.8
+      }
+    ],
+    "total": 619.1
+  },
+  {
+    "commande_id": "CMD_00030",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T22:59:38.724269",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      }
+    ],
+    "total": 2416.89
+  },
+  {
+    "commande_id": "CMD_00048",
+    "client_id": "C_0021",
+    "date_commande": "2026-02-17T23:03:59.842142",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      }
+    ],
+    "total": 129.9
+  },
+  {
+    "commande_id": "CMD_00138",
+    "client_id": "C_0061",
+    "date_commande": "2026-02-17T23:05:08.003896",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 2,
+        "prix_unitaire": 49.9,
+        "sous_total": 99.8
+      }
+    ],
+    "total": 5379.56
+  },
+  {
+    "commande_id": "CMD_00092",
+    "client_id": "C_0075",
+    "date_commande": "2026-02-17T23:04:16.731694",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 4,
+        "prix_unitaire": 59.9,
+        "sous_total": 239.6
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 2,
+        "prix_unitaire": 89.9,
+        "sous_total": 179.8
+      }
+    ],
+    "total": 419.4
+  },
+  {
+    "commande_id": "CMD_00052",
+    "client_id": "C_0024",
+    "date_commande": "2026-02-17T23:03:46.753135",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 2,
+        "prix_unitaire": 149.0,
+        "sous_total": 298.0
+      }
+    ],
+    "total": 517.8
+  },
+  {
+    "commande_id": "CMD_00004",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T22:56:49.157237",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      }
+    ],
+    "total": 99.9
+  },
+  {
+    "commande_id": "CMD_00174",
+    "client_id": "C_0035",
+    "date_commande": "2026-02-17T23:01:50.575132",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      }
+    ],
+    "total": 449.5
+  },
+  {
+    "commande_id": "CMD_00133",
+    "client_id": "C_0031",
+    "date_commande": "2026-02-17T23:05:30.541677",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 4,
+        "prix_unitaire": 19.9,
+        "sous_total": 79.6
+      }
+    ],
+    "total": 4598.87
+  },
+  {
+    "commande_id": "CMD_00023",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T22:59:11.012611",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 3,
+        "prix_unitaire": 24.9,
+        "sous_total": 74.7
+      }
+    ],
+    "total": 274.5
+  },
+  {
+    "commande_id": "CMD_00090",
+    "client_id": "C_0069",
+    "date_commande": "2026-02-17T22:56:30.957171",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 4,
+        "prix_unitaire": 449.0,
+        "sous_total": 1796.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 1885.9
+  },
+  {
+    "commande_id": "CMD_00118",
+    "client_id": "C_0051",
+    "date_commande": "2026-02-17T22:51:35.076196",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 4,
+        "prix_unitaire": 24.9,
+        "sous_total": 99.6
+      }
+    ],
+    "total": 5389.46
+  },
+  {
+    "commande_id": "CMD_00007",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:01:41.652514",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 1,
+        "prix_unitaire": 179.0,
+        "sous_total": 179.0
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 2,
+        "prix_unitaire": 69.9,
+        "sous_total": 139.8
+      }
+    ],
+    "total": 418.7
+  },
+  {
+    "commande_id": "CMD_00178",
+    "client_id": "C_0097",
+    "date_commande": "2026-02-17T22:54:12.324112",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 4,
+        "prix_unitaire": 219.0,
+        "sous_total": 876.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 4,
+        "prix_unitaire": 349.0,
+        "sous_total": 1396.0
+      }
+    ],
+    "total": 3931.59
+  },
+  {
+    "commande_id": "CMD_00126",
+    "client_id": "C_0087",
+    "date_commande": "2026-02-17T23:07:55.551900",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      }
+    ],
+    "total": 199.8
+  },
+  {
+    "commande_id": "CMD_00183",
+    "client_id": "C_0043",
+    "date_commande": "2026-02-17T22:59:46.395686",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      }
+    ],
+    "total": 219.4
+  },
+  {
+    "commande_id": "CMD_00154",
+    "client_id": "C_0059",
+    "date_commande": "2026-02-17T22:54:36.372514",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 4,
+        "prix_unitaire": 39.9,
+        "sous_total": 159.6
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 2,
+        "prix_unitaire": 44.9,
+        "sous_total": 89.8
+      }
+    ],
+    "total": 249.4
+  },
+  {
+    "commande_id": "CMD_00038",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T22:56:59.244772",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 1,
+        "prix_unitaire": 19.9,
+        "sous_total": 19.9
+      }
+    ],
+    "total": 319.6
+  },
+  {
+    "commande_id": "CMD_00169",
+    "client_id": "C_0088",
+    "date_commande": "2026-02-17T22:51:45.461999",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 49.9
+  },
+  {
+    "commande_id": "CMD_00043",
+    "client_id": "C_0068",
+    "date_commande": "2026-02-17T22:57:46.754999",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 1,
+        "prix_unitaire": 24.9,
+        "sous_total": 24.9
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 423.7
+  },
+  {
+    "commande_id": "CMD_00019",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:06:58.989834",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 2,
+        "prix_unitaire": 449.0,
+        "sous_total": 898.0
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 3,
+        "prix_unitaire": 349.0,
+        "sous_total": 1047.0
+      }
+    ],
+    "total": 2084.8
+  },
+  {
+    "commande_id": "CMD_00146",
+    "client_id": "C_0046",
+    "date_commande": "2026-02-17T22:58:55.177304",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 3,
+        "prix_unitaire": 69.9,
+        "sous_total": 209.7
+      }
+    ],
+    "total": 209.7
+  },
+  {
+    "commande_id": "CMD_00088",
+    "client_id": "C_0069",
+    "date_commande": "2026-02-17T22:59:55.572572",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 1,
+        "prix_unitaire": 24.9,
+        "sous_total": 24.9
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      }
+    ],
+    "total": 284.7
+  },
+  {
+    "commande_id": "CMD_00170",
+    "client_id": "C_0088",
+    "date_commande": "2026-02-17T23:03:10.680637",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 1,
+        "prix_unitaire": 79.9,
+        "sous_total": 79.9
+      }
+    ],
+    "total": 119.8
+  },
+  {
+    "commande_id": "CMD_00025",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:05:24.385853",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      }
+    ],
+    "total": 389.7
+  },
+  {
+    "commande_id": "CMD_00100",
+    "client_id": "C_0098",
+    "date_commande": "2026-02-17T23:02:16.015552",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      }
+    ],
+    "total": 269.7
+  },
+  {
+    "commande_id": "CMD_00130",
+    "client_id": "C_0031",
+    "date_commande": "2026-02-17T22:56:53.216546",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 4,
+        "prix_unitaire": 44.9,
+        "sous_total": 179.6
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      }
+    ],
+    "total": 264.4
+  },
+  {
+    "commande_id": "CMD_00119",
+    "client_id": "C_0051",
+    "date_commande": "2026-02-17T23:02:38.863569",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      }
+    ],
+    "total": 358.0
+  },
+  {
+    "commande_id": "CMD_00134",
+    "client_id": "C_0029",
+    "date_commande": "2026-02-17T23:05:01.117392",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      }
+    ],
+    "total": 359.6
+  },
+  {
+    "commande_id": "CMD_00022",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T22:59:19.617915",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      }
+    ],
+    "total": 5281.87
+  },
+  {
+    "commande_id": "CMD_00026",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:02:28.335865",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 3,
+        "prix_unitaire": 149.0,
+        "sous_total": 447.0
+      }
+    ],
+    "total": 1095.7
+  },
+  {
+    "commande_id": "CMD_00060",
+    "client_id": "C_0066",
+    "date_commande": "2026-02-17T22:54:09.975365",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 1,
+        "prix_unitaire": 19.9,
+        "sous_total": 19.9
+      }
+    ],
+    "total": 2619.88
+  },
+  {
+    "commande_id": "CMD_00027",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:03:44.258875",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 569.3
+  },
+  {
+    "commande_id": "CMD_00008",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:05:50.019953",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      }
+    ],
+    "total": 348.9
+  },
+  {
+    "commande_id": "CMD_00080",
+    "client_id": "C_0022",
+    "date_commande": "2026-02-17T22:56:05.993469",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 3,
+        "prix_unitaire": 44.9,
+        "sous_total": 134.7
+      }
+    ],
+    "total": 174.6
+  },
+  {
+    "commande_id": "CMD_00127",
+    "client_id": "C_0087",
+    "date_commande": "2026-02-17T23:04:18.246174",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 3,
+        "prix_unitaire": 49.9,
+        "sous_total": 149.7
+      }
+    ],
+    "total": 549.3
+  },
+  {
+    "commande_id": "CMD_00011",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:03:21.725669",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      }
+    ],
+    "total": 199.8
+  },
+  {
+    "commande_id": "CMD_00028",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T22:59:30.710162",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      }
+    ],
+    "total": 678.6
+  },
+  {
+    "commande_id": "CMD_00084",
+    "client_id": "C_0074",
+    "date_commande": "2026-02-17T23:05:11.478228",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 4,
+        "prix_unitaire": 24.9,
+        "sous_total": 99.6
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      }
+    ],
+    "total": 987.9
+  },
+  {
+    "commande_id": "CMD_00155",
+    "client_id": "C_0059",
+    "date_commande": "2026-02-17T22:58:34.885144",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 1,
+        "prix_unitaire": 59.9,
+        "sous_total": 59.9
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 5389.56
+  },
+  {
+    "commande_id": "CMD_00167",
+    "client_id": "C_0045",
+    "date_commande": "2026-02-17T22:50:23.963204",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      }
+    ],
+    "total": 179.7
+  },
+  {
+    "commande_id": "CMD_00009",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:04:13.655967",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      }
+    ],
+    "total": 339.6
+  },
+  {
+    "commande_id": "CMD_00003",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:02:25.929580",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      }
+    ],
+    "total": 259.8
+  },
+  {
+    "commande_id": "CMD_00047",
+    "client_id": "C_0070",
+    "date_commande": "2026-02-17T23:05:38.270595",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      }
+    ],
+    "total": 389.7
+  },
+  {
+    "commande_id": "CMD_00145",
+    "client_id": "C_0046",
+    "date_commande": "2026-02-17T22:59:54.226739",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 139.7
+  },
+  {
+    "commande_id": "CMD_00053",
+    "client_id": "C_0049",
+    "date_commande": "2026-02-17T23:05:34.723787",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 3,
+        "prix_unitaire": 69.9,
+        "sous_total": 209.7
+      }
+    ],
+    "total": 609.3
+  },
+  {
+    "commande_id": "CMD_00041",
+    "client_id": "C_0068",
+    "date_commande": "2026-02-17T22:57:42.036173",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 2,
+        "prix_unitaire": 69.9,
+        "sous_total": 139.8
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 4,
+        "prix_unitaire": 44.9,
+        "sous_total": 179.6
+      }
+    ],
+    "total": 558.3
+  },
+  {
+    "commande_id": "CMD_00102",
+    "client_id": "C_0027",
+    "date_commande": "2026-02-17T22:54:08.401704",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 3,
+        "prix_unitaire": 79.9,
+        "sous_total": 239.7
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 2,
+        "prix_unitaire": 149.0,
+        "sous_total": 298.0
+      }
+    ],
+    "total": 537.7
+  },
+  {
+    "commande_id": "CMD_00094",
+    "client_id": "C_0077",
+    "date_commande": "2026-02-17T23:03:47.571860",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 1666.6
+  },
+  {
+    "commande_id": "CMD_00021",
+    "client_id": "C_0041",
+    "date_commande": "2026-02-17T23:01:54.765594",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 3,
+        "prix_unitaire": 179.0,
+        "sous_total": 537.0
+      }
+    ],
+    "total": 1836.99
+  },
+  {
+    "commande_id": "CMD_00091",
+    "client_id": "C_0069",
+    "date_commande": "2026-02-17T23:01:55.155621",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      }
+    ],
+    "total": 99.9
+  },
+  {
+    "commande_id": "CMD_00164",
+    "client_id": "C_0045",
+    "date_commande": "2026-02-17T23:06:03.745578",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 4,
+        "prix_unitaire": 149.0,
+        "sous_total": 596.0
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 885.7
+  },
+  {
+    "commande_id": "CMD_00171",
+    "client_id": "C_0088",
+    "date_commande": "2026-02-17T22:59:00.664075",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 1,
+        "prix_unitaire": 219.0,
+        "sous_total": 219.0
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 1,
+        "prix_unitaire": 24.9,
+        "sous_total": 24.9
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 4,
+        "prix_unitaire": 449.0,
+        "sous_total": 1796.0
+      }
+    ],
+    "total": 2179.5
+  },
+  {
+    "commande_id": "CMD_00204",
+    "client_id": "C_0026",
+    "date_commande": "2026-02-17T22:54:18.681817",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      }
+    ],
+    "total": 1956.99
+  },
+  {
+    "commande_id": "CMD_00101",
+    "client_id": "C_0048",
+    "date_commande": "2026-02-17T23:00:22.087148",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      }
+    ],
+    "total": 759.2
+  },
+  {
+    "commande_id": "CMD_00166",
+    "client_id": "C_0045",
+    "date_commande": "2026-02-17T22:55:11.370062",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 4,
+        "prix_unitaire": 129.9,
+        "sous_total": 519.6
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 2,
+        "prix_unitaire": 69.9,
+        "sous_total": 139.8
+      }
+    ],
+    "total": 859.2
+  },
+  {
+    "commande_id": "CMD_00071",
+    "client_id": "C_0082",
+    "date_commande": "2026-02-17T22:57:18.541877",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 4,
+        "prix_unitaire": 149.0,
+        "sous_total": 596.0
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 2,
+        "prix_unitaire": 19.9,
+        "sous_total": 39.8
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      }
+    ],
+    "total": 705.7
+  },
+  {
+    "commande_id": "CMD_00114",
+    "client_id": "C_0084",
+    "date_commande": "2026-02-17T23:02:24.535070",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      }
+    ],
+    "total": 4019.67
+  },
+  {
+    "commande_id": "CMD_00205",
+    "client_id": "C_0026",
+    "date_commande": "2026-02-17T22:53:26.796867",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 2,
+        "prix_unitaire": 49.9,
+        "sous_total": 99.8
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 2,
+        "prix_unitaire": 59.9,
+        "sous_total": 119.8
+      }
+    ],
+    "total": 5509.46
+  },
+  {
+    "commande_id": "CMD_00014",
+    "client_id": "C_0023",
+    "date_commande": "2026-02-17T23:03:34.109672",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 2,
+        "prix_unitaire": 219.0,
+        "sous_total": 438.0
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 3,
+        "prix_unitaire": 49.9,
+        "sous_total": 149.7
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      }
+    ],
+    "total": 3367.38
+  },
+  {
+    "commande_id": "CMD_00086",
+    "client_id": "C_0074",
+    "date_commande": "2026-02-17T22:51:41.458731",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 2,
+        "prix_unitaire": 1299.99,
+        "sous_total": 2599.98
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 2,
+        "prix_unitaire": 39.9,
+        "sous_total": 79.8
+      }
+    ],
+    "total": 3349.08
+  },
+  {
+    "commande_id": "CMD_00085",
+    "client_id": "C_0074",
+    "date_commande": "2026-02-17T22:54:45.453254",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      }
+    ],
+    "total": 459.6
+  },
+  {
+    "commande_id": "CMD_00013",
+    "client_id": "C_0023",
+    "date_commande": "2026-02-17T23:06:54.826667",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 1,
+        "prix_unitaire": 179.0,
+        "sous_total": 179.0
+      }
+    ],
+    "total": 438.8
+  },
+  {
+    "commande_id": "CMD_00180",
+    "client_id": "C_0016",
+    "date_commande": "2026-02-17T22:55:43.702513",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 2,
+        "prix_unitaire": 19.9,
+        "sous_total": 39.8
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 399.4
+  },
+  {
+    "commande_id": "CMD_00036",
+    "client_id": "C_0055",
+    "date_commande": "2026-02-17T23:04:32.643865",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      }
+    ],
+    "total": 299.7
+  },
+  {
+    "commande_id": "CMD_00193",
+    "client_id": "C_0057",
+    "date_commande": "2026-02-17T22:59:51.733083",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 3,
+        "prix_unitaire": 79.9,
+        "sous_total": 239.7
+      }
+    ],
+    "total": 948.9
+  },
+  {
+    "commande_id": "CMD_00181",
+    "client_id": "C_0016",
+    "date_commande": "2026-02-17T23:00:41.080032",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 4,
+        "prix_unitaire": 449.0,
+        "sous_total": 1796.0
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 1,
+        "prix_unitaire": 34.9,
+        "sous_total": 34.9
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      }
+    ],
+    "total": 1930.8
+  },
+  {
+    "commande_id": "CMD_00162",
+    "client_id": "C_0044",
+    "date_commande": "2026-02-17T23:04:34.658945",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 2,
+        "prix_unitaire": 44.9,
+        "sous_total": 89.8
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 4,
+        "prix_unitaire": 449.0,
+        "sous_total": 1796.0
+      }
+    ],
+    "total": 1885.8
+  },
+  {
+    "commande_id": "CMD_00098",
+    "client_id": "C_0098",
+    "date_commande": "2026-02-17T22:52:57.572933",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 3,
+        "prix_unitaire": 44.9,
+        "sous_total": 134.7
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 4,
+        "prix_unitaire": 179.0,
+        "sous_total": 716.0
+      }
+    ],
+    "total": 1370.1
+  },
+  {
+    "commande_id": "CMD_00059",
+    "client_id": "C_0066",
+    "date_commande": "2026-02-17T22:54:11.181790",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 3,
+        "prix_unitaire": 179.0,
+        "sous_total": 537.0
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 2,
+        "prix_unitaire": 449.0,
+        "sous_total": 898.0
+      }
+    ],
+    "total": 1824.7
+  },
+  {
+    "commande_id": "CMD_00082",
+    "client_id": "C_0074",
+    "date_commande": "2026-02-17T22:57:02.456313",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      }
+    ],
+    "total": 299.7
+  },
+  {
+    "commande_id": "CMD_00046",
+    "client_id": "C_0070",
+    "date_commande": "2026-02-17T23:02:44.164825",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      }
+    ],
+    "total": 319.6
+  },
+  {
+    "commande_id": "CMD_00078",
+    "client_id": "C_0022",
+    "date_commande": "2026-02-17T22:57:02.432173",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 3,
+        "prix_unitaire": 24.9,
+        "sous_total": 74.7
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 1,
+        "prix_unitaire": 44.9,
+        "sous_total": 44.9
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 1,
+        "prix_unitaire": 19.9,
+        "sous_total": 19.9
+      }
+    ],
+    "total": 588.5
+  },
+  {
+    "commande_id": "CMD_00184",
+    "client_id": "C_0043",
+    "date_commande": "2026-02-17T22:57:52.544118",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 4,
+        "prix_unitaire": 179.0,
+        "sous_total": 716.0
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 4,
+        "prix_unitaire": 39.9,
+        "sous_total": 159.6
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 1,
+        "prix_unitaire": 24.9,
+        "sous_total": 24.9
+      }
+    ],
+    "total": 2200.49
+  },
+  {
+    "commande_id": "CMD_00186",
+    "client_id": "C_0043",
+    "date_commande": "2026-02-17T22:56:10.254601",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 4,
+        "prix_unitaire": 219.0,
+        "sous_total": 876.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 2,
+        "prix_unitaire": 44.9,
+        "sous_total": 89.8
+      }
+    ],
+    "total": 1055.7
+  },
+  {
+    "commande_id": "CMD_00129",
+    "client_id": "C_0031",
+    "date_commande": "2026-02-17T22:57:55.648254",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 4,
+        "prix_unitaire": 69.9,
+        "sous_total": 279.6
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      }
+    ],
+    "total": 798.1
+  },
+  {
+    "commande_id": "CMD_00139",
+    "client_id": "C_0061",
+    "date_commande": "2026-02-17T23:02:56.893335",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 4,
+        "prix_unitaire": 129.9,
+        "sous_total": 519.6
+      }
+    ],
+    "total": 779.4
+  },
+  {
+    "commande_id": "CMD_00077",
+    "client_id": "C_0022",
+    "date_commande": "2026-02-17T22:51:07.307404",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      }
+    ],
+    "total": 49.9
+  },
+  {
+    "commande_id": "CMD_00065",
+    "client_id": "C_0009",
+    "date_commande": "2026-02-17T22:57:29.662003",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 4,
+        "prix_unitaire": 129.9,
+        "sous_total": 519.6
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 4,
+        "prix_unitaire": 449.0,
+        "sous_total": 1796.0
+      }
+    ],
+    "total": 2475.2
+  },
+  {
+    "commande_id": "CMD_00057",
+    "client_id": "C_0010",
+    "date_commande": "2026-02-17T23:00:02.822895",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 4,
+        "prix_unitaire": 79.9,
+        "sous_total": 319.6
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      }
+    ],
+    "total": 1128.7
+  },
+  {
+    "commande_id": "CMD_00141",
+    "client_id": "C_0056",
+    "date_commande": "2026-02-17T23:03:25.498928",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 1446.9
+  },
+  {
+    "commande_id": "CMD_00151",
+    "client_id": "C_0092",
+    "date_commande": "2026-02-17T23:05:10.189500",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 2,
+        "prix_unitaire": 129.9,
+        "sous_total": 259.8
+      }
+    ],
+    "total": 259.8
+  },
+  {
+    "commande_id": "CMD_00050",
+    "client_id": "C_0024",
+    "date_commande": "2026-02-17T22:50:19.367770",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 2,
+        "prix_unitaire": 34.9,
+        "sous_total": 69.8
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 3,
+        "prix_unitaire": 129.9,
+        "sous_total": 389.7
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      }
+    ],
+    "total": 4359.47
+  },
+  {
+    "commande_id": "CMD_00115",
+    "client_id": "C_0051",
+    "date_commande": "2026-02-17T23:07:27.826665",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 3,
+        "prix_unitaire": 34.9,
+        "sous_total": 104.7
+      }
+    ],
+    "total": 104.7
+  },
+  {
+    "commande_id": "CMD_00110",
+    "client_id": "C_0084",
+    "date_commande": "2026-02-17T23:07:34.898435",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      }
+    ],
+    "total": 3899.97
+  },
+  {
+    "commande_id": "CMD_00010",
+    "client_id": "C_0007",
+    "date_commande": "2026-02-17T23:08:04.282566",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 3,
+        "prix_unitaire": 449.0,
+        "sous_total": 1347.0
+      }
+    ],
+    "total": 2646.99
+  },
+  {
+    "commande_id": "CMD_00112",
+    "client_id": "C_0084",
+    "date_commande": "2026-02-17T22:50:40.732700",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      }
+    ],
+    "total": 469.5
+  },
+  {
+    "commande_id": "CMD_00140",
+    "client_id": "C_0056",
+    "date_commande": "2026-02-17T22:58:03.326117",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 1,
+        "prix_unitaire": 19.9,
+        "sous_total": 19.9
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      }
+    ],
+    "total": 638.4
+  },
+  {
+    "commande_id": "CMD_00070",
+    "client_id": "C_0082",
+    "date_commande": "2026-02-17T22:50:42.123768",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      }
+    ],
+    "total": 618.7
+  },
+  {
+    "commande_id": "CMD_00104",
+    "client_id": "C_0027",
+    "date_commande": "2026-02-17T23:04:01.249946",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 4,
+        "prix_unitaire": 34.9,
+        "sous_total": 139.6
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      },
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      }
+    ],
+    "total": 698.8
+  },
+  {
+    "commande_id": "CMD_00016",
+    "client_id": "C_0023",
+    "date_commande": "2026-02-17T23:02:16.440279",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 1,
+        "prix_unitaire": 69.9,
+        "sous_total": 69.9
+      }
+    ],
+    "total": 469.5
+  },
+  {
+    "commande_id": "CMD_00136",
+    "client_id": "C_0029",
+    "date_commande": "2026-02-17T23:07:30.650573",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      },
+      {
+        "produit_id": "P013",
+        "nom_produit": "Support laptop réglable",
+        "quantite": 2,
+        "prix_unitaire": 34.9,
+        "sous_total": 69.8
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      }
+    ],
+    "total": 629.2
+  },
+  {
+    "commande_id": "CMD_00108",
+    "client_id": "C_0093",
+    "date_commande": "2026-02-17T22:52:16.695501",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 4,
+        "prix_unitaire": 39.9,
+        "sous_total": 159.6
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      },
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 3,
+        "prix_unitaire": 39.9,
+        "sous_total": 119.7
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 4,
+        "prix_unitaire": 49.9,
+        "sous_total": 199.6
+      }
+    ],
+    "total": 836.9
+  },
+  {
+    "commande_id": "CMD_00039",
+    "client_id": "C_0012",
+    "date_commande": "2026-02-17T22:57:33.207319",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      }
+    ],
+    "total": 389.6
+  },
+  {
+    "commande_id": "CMD_00087",
+    "client_id": "C_0069",
+    "date_commande": "2026-02-17T22:50:33.933950",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 4,
+        "prix_unitaire": 89.9,
+        "sous_total": 359.6
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 1,
+        "prix_unitaire": 44.9,
+        "sous_total": 44.9
+      },
+      {
+        "produit_id": "P004",
+        "nom_produit": "Écran 27\" 4K",
+        "quantite": 1,
+        "prix_unitaire": 449.0,
+        "sous_total": 449.0
+      }
+    ],
+    "total": 853.5
+  },
+  {
+    "commande_id": "CMD_00062",
+    "client_id": "C_0004",
+    "date_commande": "2026-02-17T22:50:44.346806",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P015",
+        "nom_produit": "Imprimante laser",
+        "quantite": 3,
+        "prix_unitaire": 219.0,
+        "sous_total": 657.0
+      },
+      {
+        "produit_id": "P019",
+        "nom_produit": "Caméra IP sécurité",
+        "quantite": 3,
+        "prix_unitaire": 89.9,
+        "sous_total": 269.7
+      }
+    ],
+    "total": 1226.4
+  },
+  {
+    "commande_id": "CMD_00196",
+    "client_id": "C_0053",
+    "date_commande": "2026-02-17T22:54:06.695411",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P014",
+        "nom_produit": "Tapis de souris XL",
+        "quantite": 2,
+        "prix_unitaire": 24.9,
+        "sous_total": 49.8
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      }
+    ],
+    "total": 1707.79
+  },
+  {
+    "commande_id": "CMD_00135",
+    "client_id": "C_0029",
+    "date_commande": "2026-02-17T22:52:06.981980",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P008",
+        "nom_produit": "Hub USB-C 7 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P007",
+        "nom_produit": "Webcam HD 1080p",
+        "quantite": 4,
+        "prix_unitaire": 69.9,
+        "sous_total": 279.6
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 2,
+        "prix_unitaire": 179.0,
+        "sous_total": 358.0
+      }
+    ],
+    "total": 677.5
+  },
+  {
+    "commande_id": "CMD_00066",
+    "client_id": "C_0015",
+    "date_commande": "2026-02-17T22:53:11.248310",
+    "statut": "annulee",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      }
+    ],
+    "total": 39.9
+  },
+  {
+    "commande_id": "CMD_00113",
+    "client_id": "C_0084",
+    "date_commande": "2026-02-17T22:55:49.913824",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 4,
+        "prix_unitaire": 99.9,
+        "sous_total": 399.6
+      },
+      {
+        "produit_id": "P016",
+        "nom_produit": "Scanner portable",
+        "quantite": 1,
+        "prix_unitaire": 149.0,
+        "sous_total": 149.0
+      }
+    ],
+    "total": 548.6
+  },
+  {
+    "commande_id": "CMD_00093",
+    "client_id": "C_0067",
+    "date_commande": "2026-02-17T23:01:56.895028",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 3,
+        "prix_unitaire": 99.9,
+        "sous_total": 299.7
+      },
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 1,
+        "prix_unitaire": 1299.99,
+        "sous_total": 1299.99
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      },
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 4,
+        "prix_unitaire": 179.0,
+        "sous_total": 716.0
+      }
+    ],
+    "total": 2355.59
+  },
+  {
+    "commande_id": "CMD_00187",
+    "client_id": "C_0036",
+    "date_commande": "2026-02-17T23:02:52.083338",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      }
+    ],
+    "total": 5199.96
+  },
+  {
+    "commande_id": "CMD_00203",
+    "client_id": "C_0026",
+    "date_commande": "2026-02-17T22:53:42.646984",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 1,
+        "prix_unitaire": 99.9,
+        "sous_total": 99.9
+      },
+      {
+        "produit_id": "P003",
+        "nom_produit": "Clavier mécanique",
+        "quantite": 1,
+        "prix_unitaire": 89.9,
+        "sous_total": 89.9
+      },
+      {
+        "produit_id": "P002",
+        "nom_produit": "Souris ergonomique",
+        "quantite": 1,
+        "prix_unitaire": 49.9,
+        "sous_total": 49.9
+      },
+      {
+        "produit_id": "P012",
+        "nom_produit": "Stylet numérique",
+        "quantite": 3,
+        "prix_unitaire": 59.9,
+        "sous_total": 179.7
+      }
+    ],
+    "total": 419.4
+  },
+  {
+    "commande_id": "CMD_00201",
+    "client_id": "C_0091",
+    "date_commande": "2026-02-17T22:55:18.638600",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P017",
+        "nom_produit": "Routeur WiFi 6",
+        "quantite": 3,
+        "prix_unitaire": 179.0,
+        "sous_total": 537.0
+      },
+      {
+        "produit_id": "P020",
+        "nom_produit": "Batterie externe 20000mAh",
+        "quantite": 4,
+        "prix_unitaire": 44.9,
+        "sous_total": 179.6
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 2,
+        "prix_unitaire": 79.9,
+        "sous_total": 159.8
+      },
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      }
+    ],
+    "total": 916.3
+  },
+  {
+    "commande_id": "CMD_00055",
+    "client_id": "C_0096",
+    "date_commande": "2026-02-17T22:57:45.542985",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 4,
+        "prix_unitaire": 1299.99,
+        "sous_total": 5199.96
+      },
+      {
+        "produit_id": "P005",
+        "nom_produit": "Casque Bluetooth",
+        "quantite": 1,
+        "prix_unitaire": 129.9,
+        "sous_total": 129.9
+      }
+    ],
+    "total": 5329.86
+  },
+  {
+    "commande_id": "CMD_00076",
+    "client_id": "C_0018",
+    "date_commande": "2026-02-17T22:58:31.634320",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P009",
+        "nom_produit": "SSD externe 1To",
+        "quantite": 2,
+        "prix_unitaire": 99.9,
+        "sous_total": 199.8
+      }
+    ],
+    "total": 199.8
+  },
+  {
+    "commande_id": "CMD_00120",
+    "client_id": "C_0079",
+    "date_commande": "2026-02-17T23:01:30.421787",
+    "statut": "en_cours",
+    "items": [
+      {
+        "produit_id": "P018",
+        "nom_produit": "Switch 8 ports",
+        "quantite": 1,
+        "prix_unitaire": 39.9,
+        "sous_total": 39.9
+      }
+    ],
+    "total": 39.9
+  },
+  {
+    "commande_id": "CMD_00018",
+    "client_id": "C_0023",
+    "date_commande": "2026-02-17T23:02:47.467804",
+    "statut": "livree",
+    "items": [
+      {
+        "produit_id": "P001",
+        "nom_produit": "Laptop Pro 15",
+        "quantite": 3,
+        "prix_unitaire": 1299.99,
+        "sous_total": 3899.97
+      },
+      {
+        "produit_id": "P011",
+        "nom_produit": "Tablette 10\"",
+        "quantite": 1,
+        "prix_unitaire": 349.0,
+        "sous_total": 349.0
+      },
+      {
+        "produit_id": "P006",
+        "nom_produit": "Enceinte portable",
+        "quantite": 3,
+        "prix_unitaire": 79.9,
+        "sous_total": 239.7
+      },
+      {
+        "produit_id": "P010",
+        "nom_produit": "Câble HDMI 2.1",
+        "quantite": 2,
+        "prix_unitaire": 19.9,
+        "sous_total": 39.8
+      }
+    ],
+    "total": 4528.47
+  }
+]
